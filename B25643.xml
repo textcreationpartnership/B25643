@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The languishing state of our woollen manufacture, humbly represented to the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25643</idno><idno type="EEBO-CITATION">99885701</idno>
+  <idno type="VID">185533</idno>
+  <idno type="EEBO-PROQUEST">2240898139</idno>
+  
+            <idno type="STC">Wing L418A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[80]</idno>
+            <idno type="STC">ESTC R224840</idno>
+            <idno type="PROQUEST">ocm99885701</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885701e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25643)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185533)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The languishing state of our woollen manufacture, humbly represented to the Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  Germany --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:185533:1"/>
+            <pb facs="tcp:185533:1"/>
+            <head>The Languishing State of our WOOLLEN MANUFACTURE, Humbly Represented to the PARLIAMENT.</head>
+            <p>OUR Woollen Manufacture brought to its perfection (in former days) was the command<g ref="char:EOLhyphen"/>ing Commodity in Trade at all Foreign Markets, which true merit rendered it the Dar<g ref="char:EOLhyphen"/>ling of this Honourable House; as appears by the Statutes from <hi>Edward</hi> the Sixth, to the 21st of King <hi>James;</hi> during which time, the Country flourished, Wool sold at double the Price it hath done since.</p>
+            <p>The neglect of which, (these latter times) hath occasioned as great a Sickness in Trade, as will appear by a due Examination of all Parts of the Manufacture in our Nation, where the Charge for Re<g ref="char:EOLhyphen"/>lief of the Poor, exceeds all Taxes to the King; and indeed are become an Emblem of Poverty, which will appear in more visible demonstrations, if some speedy Care be not taken.</p>
+            <p>But being now (by good providence) come upon the same Foot again, as appears by his Majesty's recommending the ballancing of Trade to this great Council. An Abstract of the Grievances a<g ref="char:EOLhyphen"/>bout our Woollen Manufacture, are here humbly represented.</p>
+            <p n="1">1. The Exportation of our Wooll into <hi>France</hi> and other Parts, which by their cheap Work<g ref="char:EOLhyphen"/>manship hath lessened our Trade Abroad, whilst the making it Fellony, hath only been a shelter to the Practice, and no way answer'd the End.</p>
+            <p n="2">2. The debasing and falsifying our Manufactures hath been a great hindrance to their consump<g ref="char:EOLhyphen"/>tion; hereby we have given away that excellent Advantage (that Providence hath afforded us,) whereby we are capable of exceeding the whole World, and suffer'd the <hi>Dutch</hi> and other Nations to out-do us in Trade. And I can see little hopes of good Success in Trade, whilst there is Error <hi>in fundamento;</hi> and the sinister practises of straining and falsifying our Goods, are the chief wheels that brings our Gain, which for some time may answer private Ends, but will soon be prejudicial to the Publick; which is no way to be prevented, but by fixing our Manufactures to a certain length, breadth and weight, and preventing the great abuse of straining.</p>
+            <p n="3">3. The neglect of preserving the Merchandise of our Woollen Manufactures in <hi>English</hi> Hands, to be Exported to <hi>Flanders, Germany, Holland</hi> and <hi>Spain,</hi> who are the only true Patriots to preserve the Reputation of our <hi>English</hi> Commodities. So soon as the Foreigner became Principal in our Mar<g ref="char:EOLhyphen"/>kets in Buying, he soon beat down the Price, and let loose the Reins as to the intrinsick value of the Commodity, which always kept a check upon the <hi>Dutch,</hi> who are our chiefest Competitors in Trade; by which means our Cloth was soon debas'd, whilst there was never more care taken in <hi>Holland</hi> to preserve the Goodness and Reputation of their own. Hereby we have lost the Advantage of our Mer<g ref="char:EOLhyphen"/>chandize, have given an Advantage to Foreigners to sell the Native Commodities of their own Coun<g ref="char:EOLhyphen"/>tries at the top of our Markets, and lessened the number of <hi>English</hi> Merchants so far, that Three Hundred Pounds with an Apprentice now, is not reckon'd so much as One Hundred Pounds Forty Years past; which is not to be remedied but by an Establishment of the Company of Merchant Adventurers of <hi>England,</hi> by Act of Parliament, in the most Comprehensive manner that can be con<g ref="char:EOLhyphen"/>trived.</p>
+            <p n="4">4. The neglect of preserving the publick Market of <hi>Blackwel-hall,</hi> in <hi>London,</hi> for the Sale of Cloth, according to ancient custom, which hath been like the opening of <hi>Pandoras</hi>'s Box to the Manufacturers, or leading of them into <hi>Egypt:</hi> Hereby the Maker hath been dispossest of the Sale of his own Goods, and train'd up a Servant to become his Master; who to procure a farther Profit to himself out of Wool, hath brought on a long Credit with Cloth, which hath put the Clothiers Stock out of his own com<g ref="char:EOLhyphen"/>mand, and oblig'd him to take his Wool of the Factor at extraordinary Prices. Which long Credit hath been of very oppressing consequence to the poor Labourers, and forc'd them into the hands of Ingrossers and Badgers for an immediate Subsistance; hath occasion'd many bad Debts to the Makers, from Foreign Merchants, from Packers and Factors, to the very great lessening of the Stock of the Country, and here<g ref="char:EOLhyphen"/>by (the command of the Sale of Cloth being wholly in their own Hands,) our Substantial Merchants that paid ready Money, hath been discouraged, and the commanding Commodity of our Nation, put into weak Hands, that support themselves by Credit, whilst nothing can relieve the Country but a nimbler circulation of the Clothiers Stock, which by no means can be effected, but by preserving the publick Market, which is humbly offer'd in a Bill.</p>
+            <p n="5">5. The unnecessary Charge that hath hereby been brought upon the commanding Commodity of our Nation, at least Eight <hi>per Gent,</hi> which was wholly prevented whilst the Clothier sold his Cloth to the <hi>English</hi> Merchant; which dead weight doth not a little hinder the master Wheel of our Trade.</p>
+            <p n="6">6. The neglect of incouraging the consumption of the proper Effects of our Woollen Manufacture from <hi>Flanders</hi> and <hi>Germany,</hi> which instead thereof, hath been doubly charged in our Customs, ever since the 12th of <hi>Garol.</hi> II. whilst like Children we have been kept quiet with Rattles, Painted Calli<g ref="char:EOLhyphen"/>co's, Soft Muslings, and the curious Landskips of an <hi>Indian</hi> Fan, brought home with our Bullion.</p>
+            <p n="7">7. The ingrossing of Commodities in Trade, Cutchaneal, Indico, <hi>&amp;c.</hi> which by the Laws of the <hi>Romans</hi> in some cases was no less than Death.</p>
+            <p>The Proper Remedies for these Grievances we humbly submit to this Honourable House.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:185533:2"/>
+            <p>The STATE Of our <hi>Woollen Manufactory;</hi> or the Complaint of the Country.</p>
+            <pb facs="tcp:185533:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
